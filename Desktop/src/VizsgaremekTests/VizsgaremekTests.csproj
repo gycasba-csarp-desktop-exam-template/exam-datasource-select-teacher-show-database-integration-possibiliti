@@ -17,4 +17,10 @@
     <ProjectReference Include="..\Vizsgaremek\Vizsgaremek.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+
 </Project>
