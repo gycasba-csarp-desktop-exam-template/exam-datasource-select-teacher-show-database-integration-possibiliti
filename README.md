@@ -1,2 +1,2 @@
-# exam-datasource-select-teacher-show-database-integration-possibiliti
-Tanár adatk megjelenítése és adatbázisból való megjelenítés lehetősége
+# exam-datasource-select-teacher-show
+Adatbázis forrás választás működik, tanár tábla megjelenítés működik
